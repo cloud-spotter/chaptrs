@@ -1,5 +1,7 @@
 # Codebase documentation
 
+These documentation notes relate to the original Acebook codebase, cloned from Makers Academy. This formed the basis of the codebase for the Chaptrs web application minus any code/files relating to 'posts'. The codebase was then extended to fit the requirements of the new project and application.   
+
 ## Videos
 
 These videos complement the docs below.
