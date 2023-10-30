@@ -33,7 +33,7 @@ Welcome to Chaptrs, an app for bookworms! Plan and track your bookclubs with fel
 
 Trello ticket [tracker][tracker-link]
 
-[tracker-link]: https://your-trello-ticket-tracker-link.com
+[tracker-link]: https://trello.com/b/HXTFQUiz/chaptrs-makers-final-project
 
 
 ## 🔍 Showcase Graphics
